@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from datasets import load_dataset
-from sklearn import metrics
 from transformers import (
     AutoTokenizer,
     DataCollatorForTokenClassification,
