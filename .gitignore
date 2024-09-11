@@ -1,0 +1,6 @@
+*.ini
+*.safetensors
+*.pt
+*.h5
+*.arrow
+*.spm

@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from datasets import load_dataset
 from transformers import (
     AutoTokenizer,
     DataCollatorForTokenClassification,

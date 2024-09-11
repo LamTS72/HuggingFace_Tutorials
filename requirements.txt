@@ -1,0 +1,9 @@
+rouge_score==0.1.2
+seqeval==1.2.2
+sacrebleu==2.4.3
+squad==1.90
+evaluate==0.4.2
+datasets==2.21.0
+transformers==4.42.4
+sentencepiece==0.2.0
+accelerate == 0.33.0
